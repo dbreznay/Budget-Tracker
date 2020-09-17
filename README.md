@@ -1,4 +1,6 @@
-# Unit 18 PWA Homework: Online/Offline Budget Trackers
+# Unit 18 PWA Homework: Online/Offline Budget Trackers 
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 Add functionality to our existing Budget Tracker application to allow for offline access and functionality.
 
@@ -31,10 +33,11 @@ THEN that will be shown on the page, and added to their transaction history when
 
 - - -
 
-## Repo and Live Links
+## Application UI
+![Screen Shot 2020-09-17 at 12 20 35 AM](https://user-images.githubusercontent.com/60904436/93423592-ec755600-f87b-11ea-9cbc-a5c5d8b3c816.png)
 
-* You are required to submit the following:
+## Links
 
-  * the URL to the deployed application
+  * Link to the deployed [application](https://cryptic-garden-80169.herokuapp.com/)
 
-  * the URL to the Github repository
+  * Link to the Github [repository](https://github.com/dbreznay/Budget-Tracker)
