@@ -1,0 +1,27 @@
+{
+  "name": "budget-tracker",
+  "version": "1.0.0",
+  "description": "Budget Tracker application",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dbreznay/Budget-Tracker.git"
+  },
+  "author": "Dylan Breznay",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dbreznay/Budget-Tracker/issues"
+  },
+  "homepage": "https://github.com/dbreznay/Budget-Tracker#readme",
+  "dependencies": {
+    "compression": "^1.7.4",
+    "express": "^4.17.1",
+    "lite-server": "^2.5.4",
+    "mongoose": "^5.10.5",
+    "morgan": "^1.10.0"
+  }
+}
